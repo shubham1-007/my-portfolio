@@ -1,0 +1,11 @@
+.navbar{
+    height: 14vh;
+}
+.nav-items{
+    margin-left: auto;
+}
+.name{
+    font-size: 25px;
+    font-weight: 700;
+}
+

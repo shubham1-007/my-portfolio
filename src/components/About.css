@@ -1,0 +1,60 @@
+.about-wrap{
+    background-color: rgb(215, 214, 214);
+}
+.wrap{
+    /* border: 2px solid red; */
+    display:flex;
+    flex-direction: column;
+     justify-content: center;
+     text-align: center;
+     /* width: 100vw; */
+     height: auto;
+     /* margin: 200px; */
+     /* padding-bottom: 20px;*/
+     padding-top: 200px; 
+
+   
+}
+.h{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    color: #111;
+    font-weight: 400;
+    padding-bottom: 25px;
+}
+.pa{
+    /* font-size: 20px;
+   
+    text-align: center; */
+    color: #333;
+    font-size: 1.5rem;
+    text-align: center;
+    width: fit-content;
+    line-height: 1.6;
+
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-bottom:25px;
+    ;
+}
+.skills{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skills_skill{
+    padding: 0.7rem 1rem;
+    margin-bottom: 1.5rem;
+    margin-right: 1.5rem;
+    font-size: 1.3rem;
+    background: rgba(153,153,153,.2);
+    border-radius: 5px;
+    font-weight: 600;
+    color: #666;
+    text-align: center;
+
+    
+}

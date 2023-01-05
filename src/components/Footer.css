@@ -1,0 +1,19 @@
+.footer{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 25px;
+}
+.foot{
+    background-color:black;
+    width: 100vw;
+    color: white;
+    height: 28vh;
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 5vw;
+}

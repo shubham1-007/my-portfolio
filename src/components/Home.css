@@ -1,0 +1,61 @@
+ @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@900&display=swap');
+
+.container1{
+   /* margin: auto;
+   text-align: center;
+   padding: 200px; */
+   
+   position:fixed;
+    top: 50%;
+  padding-left:25em;
+    transform: translate(-50%,-50%);
+    max-width: 90rem;
+    width: 92%;
+
+
+   
+}
+.wrapper{
+    background-image: url("https://www.transparenttextures.com/patterns/bright-squares.png");
+    display:flex;
+    flex-direction: column;
+     justify-content: center;
+     text-align: center;
+     /* width: 100vw; */
+     height: 100vh;
+     padding-bottom: 20px;
+
+   
+}
+.h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    font-size: 60px;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    color: #111;
+    font-weight: 400;
+    padding-bottom: 25px;
+}
+.p1{
+    /* font-size: 20px;
+   
+    text-align: center; */
+    color: #333;
+    font-size: 1.5rem;
+    text-align: center;
+    width: fit-content;
+    line-height: 1.6;
+
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-bottom:25px;
+    ;
+}
+.button{
+    align-self: center;
+     text-align: center;
+     height:auto;
+     width:7em;
+   
+}
